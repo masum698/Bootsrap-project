@@ -1,0 +1,68 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    /* font-family: 'Handlee', cursive;
+   
+    font-family: 'Roboto', sans-serif; */
+
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 0.5rem;
+    transition: all .5s;
+
+}
+.nav-link:hover{
+    background-color: rgb(61, 56, 51);
+    color: white;
+}
+/* banner section */
+#banner-section{
+    padding:3% 7%;
+}
+.banner-title h1{
+   
+ }
+
+.banner-title p{
+    font-size: 0.8rem;
+    padding-right: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.img-fluid{
+    border-radius: 0.5rem;
+}
+.newsletter-heading{
+
+}
+
+/* .card{
+    transition: all 0.5s;
+}
+.card:hover{
+    transform: scale(0.8);
+} */
+
+.card-img{
+    width:180px;
+    height: 200px;
+}
+.style-icon:hover {
+    color: rgb(5, 101, 179);
+}
+#contact-section{
+    padding:5%;
+}
+
+
+ 
+     
+ 
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+     
+}
